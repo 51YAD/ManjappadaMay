@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, This is the Group manager bot of Manjappada Telegram Group
+Hi {}, This is the Group manager bot of [Manjappada Telegram Group](t.me/KbfcManjappada)
 
 The Manjappada Fans Group are the most Active & biggest fan group of KBFC Awarded As the Best Fans Of The Year  2017 & 2020 by Indian Sports Honour 🏆 
 
